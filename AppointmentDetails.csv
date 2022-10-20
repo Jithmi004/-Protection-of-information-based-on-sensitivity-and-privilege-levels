@@ -1,0 +1,6 @@
+AppointmentId,UserName,SicknessDetails,DrugPrescriptions,LabPrescriptions
+0,TestPatient1,Cough and sore throat,Cough Syrap,No need
+1,TestPatient2,Flu,Panadol,Immediate Dengue test
+2,TestPatient2,Covid 19,paracitamol,Rapid antigen test
+3,TestPatient1,Stomach pain,Painkillers,Dengue Test is done
+4,TestPatient4,Stomach Pain,Painkillers and panadol,No need

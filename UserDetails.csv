@@ -1,0 +1,11 @@
+UserName,Password,UserType,PriviledgeLevel
+TestPatient1,5f4dcc3b5aa765d61d8327deb882cf99,Patient,4
+TestDoctor1,5f4dcc3b5aa765d61d8327deb882cf99,Doctor,1
+TestNurse1,5f4dcc3b5aa765d61d8327deb882cf99,Nurse,2
+TestLabAssistant1,5f4dcc3b5aa765d61d8327deb882cf99,LabAssistant,3
+TestPatient2,5f4dcc3b5aa765d61d8327deb882cf99,Patient,4
+TestDoctor2,5f4dcc3b5aa765d61d8327deb882cf99,Doctor,1
+TestNurse2,5f4dcc3b5aa765d61d8327deb882cf99,Nurse,2
+TestLabAssistant3,5f4dcc3b5aa765d61d8327deb882cf99,LabAssistant,3
+TestPatient4,5f4dcc3b5aa765d61d8327deb882cf99,Patient,4
+TestPatient3,5f4dcc3b5aa765d61d8327deb882cf99,Patient,4
